@@ -2,10 +2,10 @@ Title: Hallo Welt!
 Date: 2015-03-26 20:13
 Modified: 2015-03-26 20:13
 Category: Python
-Tags: Variablen, I/O
+Tags: Terminal,print
 Slug: hallo-welt
 Authors: Martin Thoma
-Summary: Installation, Editor, Variablen und Ausgabe von Text
+Summary: Installation, Editor, Ausgabe von Text
 
 Das folgende Tutorial bereitet alles vor, damit wir mit dem Programmieren
 anfangen können. Du wirst damit lernen, wie du ein Programm schreibst, wie du

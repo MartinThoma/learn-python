@@ -54,3 +54,4 @@ docs/_build/
 target/
 Makefile
 cache/
+output/

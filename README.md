@@ -1,40 +1,44 @@
 # Python lernen
 Python lernen für Programmieranfänger.
 
-
-* http://interactivepython.org/courselib/static/thinkcspy/index.html
-* http://bootswatch.com/united/#
+Die Website wird auf []() gehostet.
 
 
-## Text adventure
+## Inhalte
+### Text adventure
 
 * if / else
-* variablen
+* Variablen
 * Text-IO
 
 
-## Zahlen raten
+### Zahlen raten
 
 * Binäre Suche
 
 
-## Hangman
+### Hangman
 
 * Arrays
 
 
-## Snake
+### Snake
 
 * Listen
 * Zufallszahlen
 
 
-
 ## Weitere Ideen
+
+### Spiele
 * Space invaders: Klassen / Objekte
 * Breakout
 * Pong
 * Pac Men
 * Mortal Combat
+
+### Misc
 * Lisp: One game at a time
 * barski
+* http://interactivepython.org/courselib/static/thinkcspy/index.html
+* http://bootswatch.com/united/#
