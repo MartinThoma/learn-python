@@ -1,11 +1,9 @@
-# learn-python
+# Python lernen
 Python lernen für Programmieranfänger.
 
 
 * http://interactivepython.org/courselib/static/thinkcspy/index.html
 * http://bootswatch.com/united/#
-
-
 
 
 ## Text adventure
