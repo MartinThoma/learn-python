@@ -1,7 +1,7 @@
 # Python lernen
 Python lernen für Programmieranfänger.
 
-Die Website wird auf []() gehostet.
+Die Website wird auf [www.martin-thoma.de/python-lernen](http://www.martin-thoma.de/python-lernen/) gehostet.
 
 
 ## Inhalte
