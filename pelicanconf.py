@@ -40,5 +40,8 @@ SOCIAL = (('twitter', 'https://twitter.com/themoosemind'),
 
 DEFAULT_PAGINATION = 10
 
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["neighbors"]
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
