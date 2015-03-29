@@ -1,0 +1,5 @@
+erste_zahl = input("Wie lautet die erste Zahl? ")
+erste_zahl = int(erste_zahl)
+zweite_zahl = input("Wie lautet die zweite Zahl? ")
+zweite_zahl = int(zweite_zahl)
+print(erste_zahl * zweite_zahl)

@@ -114,7 +114,7 @@ Ordner.
 Nun gibt im Terminal
 
 ```bash
-$ python hello.py
+$ python3 hello.py
 ```
 
 ein. Nicht vergessen, dass `$`-Zeichen soll *nicht* mit eingegeben werden. Es
