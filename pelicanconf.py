@@ -6,7 +6,8 @@ AUTHOR = u'Martin Thoma'
 SITENAME = u'Python lernen - Spiel f\xfcr Spiel'
 SITEURL = 'http://www.martin-thoma.de/python-lernen'
 
-THEME = "/home/moose/pelican-themes/blueidea"
+# THEME = "/home/moose/pelican-themes/blueidea"
+THEME = "theme"
 DISPLAY_AUTHOR_ON_POSTINFO = True
 
 PATH = 'content'
